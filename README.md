@@ -3,8 +3,8 @@
 - 期限
 - 目的、行動指針
   - Motivation
-    - 新人間革命(1週間に一度)
-      - Mon
+    - 新人間革命
+      - Mon, 50 page
 
 ## 1. How to improve English
 ### Increace vocabrary
@@ -34,7 +34,7 @@
 ### Everyday
 - Make 1 commit!
 ### ◆Mon
-- Read Human Revolution
+- Read Human Revolution 50 pages
 ### ◆Tue
 - Read 5 peices of news
 - Read 1 article in workbook
