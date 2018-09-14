@@ -1,10 +1,10 @@
 # ゴールの書き出し
 - 色分けはするかどうか
-- 期限
-- 目的、行動指針
+- Due
+- Purpose, Principle
   - Motivation
-    - 新人間革命
-      - Mon, 50 page
+    - Human Revolution
+      - Mon, 50 pages
 
 ## 1. How to improve English
 ### Increace vocabrary
@@ -32,21 +32,23 @@
 
 ## Schedule
 ### Everyday
-- Make 1 commit!
-### ◆Mon
-- Read Human Revolution 50 pages
-### ◆Tue
-- Read 5 peices of news
-- Read 1 article in workbook
-### ◆Wed
-- Listen AEE
-- Watch 1 episode of Friends
-### ◆Thu
-- Read 5 peices of news
-- Listen Voca audio
-### ◆Fri
-- Listen AEE
-- Watch 1 episode of anime
-### ◆Sat
-- 
-### ◆Sun
+  - Make 1 commit
+### ◆ Mon
+  - Read Human Revolution 50 pages
+### ◆ Tue
+  - Read 5 peices of news
+  - Read 1 article in workbook
+### ◆ Wed
+  - Listen AEE
+  - Watch 1 episode of Friends
+### ◆ Thu
+  - Read 5 peices of news
+  - Listen Voca audio
+### ◆ Fri
+  - Listen AEE
+  - Watch 1 episode of anime
+### ◆ Sat
+  - Read Human Revolution 100 pages
+  - Focus on development
+### ◆ Sun
+  - Blowze a job
