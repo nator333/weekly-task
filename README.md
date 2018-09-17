@@ -3,12 +3,15 @@
 - Due
 - Purpose, Principle
   - Motivation
-    - Human Revolution
+    - Gongyo 2 times a day
+    - Daimoku 10 minutes and make logs
+    - Read Human Revolutions
       - Mon, 50 pages
+      - Sat, 100 pages
 
 ## 1. How to improve English
 ### Increase vocabulary
-- Read News
+- Read news and summarize it
 - Use certain workbook
   - Tue, Thu
 
@@ -24,7 +27,6 @@
   - Hugo(Go)
     1. Decide design
     2. Hosting
-    3. 
 
 ### Mobile
 - Android
@@ -32,23 +34,21 @@
 
 ## Schedule
 ### Everyday
-  - Make 1 commit
+  - Read 3 pieces of news and summarize it.
+  - Daimoku 10 minutes
+  - Listen to AEE 1 episode at least
 ### ◆ Mon
   - Read Human Revolution 50 pages
 ### ◆ Tue
-  - Read 5 pieces of news
   - Read 1 article in workbook
 ### ◆ Wed
-  - Listen AEE
   - Watch 1 episode of Friends
 ### ◆ Thu
-  - Read 5 pieces of news
   - Listen to vocabulary audio
 ### ◆ Fri
   - Listen to AEE
   - Watch 1 episode of anime
 ### ◆ Sat
   - Read Human Revolution 100 pages
-  - Focus on development
 ### ◆ Sun
-  - Browse a job
+  - Browse a job and develop
