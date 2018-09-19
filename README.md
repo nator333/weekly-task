@@ -34,10 +34,10 @@
 
 ## Schedule
 ### Everyday
-  - Read 5 pieces of news and summarize and check new vocabulary 2 of these at least.
+  - Read 5 pieces of news and summarize 2 of these at least and check new vocabularies.
   - 2 times Gongyo and 10-minute Daimoku
   - Listen to 2 episodes of AEE at least
-  - wash water bottles as soon as getting home
+  - Wash water bottles as soon as getting home
 ### ◆ Mon
   - Read Human Revolution 50 pages
 ### ◆ Tue
