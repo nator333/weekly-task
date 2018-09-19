@@ -34,17 +34,18 @@
 
 ## Schedule
 ### Everyday
-  - Read 3 pieces of news and summarize it.
-  - Daimoku 10 minutes
-  - Listen to AEE 1 episode at least
+  - Read 5 pieces of news and summarize and check new vocabulary 2 of these at least.
+  - 2 times Gongyo and 10-minute Daimoku
+  - Listen to 2 episodes of AEE at least
+  - wash water bottles as soon as getting home
 ### ◆ Mon
   - Read Human Revolution 50 pages
 ### ◆ Tue
-  - Read 1 article in workbook
+  - Do 1 material in a reading workbook
 ### ◆ Wed
-  - Watch 1 episode of Friends
+  - Watch 1 episode of Friends with subtitle and watch again without it
 ### ◆ Thu
-  - Listen to vocabulary audio
+  - Listen to vocabulary audio 
 ### ◆ Fri
   - Listen to AEE
   - Watch 1 episode of anime
