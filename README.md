@@ -38,6 +38,7 @@
   - 2 times Gongyo and 10-minute Daimoku
   - Listen to 2 episodes of AEE at least
   - Wash water bottles as soon as getting home
+  - Typing practice
 ### ◆ Mon
   - Read Human Revolution 50 pages
 ### ◆ Tue
